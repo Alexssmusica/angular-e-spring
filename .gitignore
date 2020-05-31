@@ -1,0 +1,7 @@
+.idea
+*.iml
+
+target
+basico-angular/package-lock.json
+agenda-app/package-lock.json
+clientes-app/package-lock.json
