@@ -15,6 +15,7 @@ import org.springframework.web.server.ResponseStatusException;
 import io.github.dougllasfps.clientes.rest.exception.ApiErrors;
 
 @RestControllerAdvice
+@SuppressWarnings("all")
 public class ApplicationControllerAdvice {
 
     @ExceptionHandler(MethodArgumentNotValidException.class)
