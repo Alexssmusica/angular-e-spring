@@ -9,6 +9,16 @@
             "mainClass": "io.github.dougllasfps.clientes.ClientesApplication",
             "projectName": "clientes",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-AgendaApiApplication<agenda-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "io.github.dougllasfps.agendaapi.AgendaApiApplication",
+            "projectName": "agenda-api",
+            "args": ""
         }
     ]
 }
